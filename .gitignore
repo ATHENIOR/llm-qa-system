@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+Containerized LLM QA system with Docker and GitHub - Claude.html
+Containerized LLM QA system with Docker and GitHub - Claude_files/
