@@ -25,6 +25,13 @@ Open: **http://127.0.0.1:8000**
 docker build -t llm-chatbot .
 docker run -d -p 8000:8000 -e OPENAI_API_KEY=your_key_here llm-chatbot
 ```
+## LIVE HOSTING 
+
+https://llm-qa-system-gxww.onrender.com
+
+
+
+
 Open: **http://localhost:8000**
 
 ## Change the Bot's Domain
