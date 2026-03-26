@@ -2,6 +2,10 @@
 
 A ChatGPT-style AI chatbot with a beautiful dark UI, built with FastAPI + OpenAI, containerized with Docker.
 
+## SEE HOW OUR AI ASSITANT WORKS LIVE ,HOSTED GLOBALLY 
+
+https://llm-qa-system-gxww.onrender.com
+
 ## Features
 - 💬 Real-time chat interface (like ChatGPT / Claude)
 - 🔄 Full conversation memory (multi-turn)
@@ -25,13 +29,6 @@ Open: **http://127.0.0.1:8000**
 docker build -t llm-chatbot .
 docker run -d -p 8000:8000 -e OPENAI_API_KEY=your_key_here llm-chatbot
 ```
-## LIVE HOSTING 
-
-https://llm-qa-system-gxww.onrender.com
-
-
-
-
 Open: **http://localhost:8000**
 
 ## Change the Bot's Domain
